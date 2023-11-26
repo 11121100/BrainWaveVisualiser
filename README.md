@@ -5,7 +5,7 @@ A project involving NeuroSky Mindwave (EEG), Raspberry Pi (SOC) and ApexCharts (
 
 | Linux  | Raspberry Pi | Windows |
 | ------ | ------------ | ------- |
-|        |              |         |
+|   ✓    |       ✓      |    ✓    |
 
 
 Python Version Support
