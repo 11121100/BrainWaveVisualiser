@@ -38,6 +38,12 @@ Installation
 ------------
 
 Please refer to the instructions below.
+-   Install Python 3.7 (tested version)
+-   Install Chrome Browser (tested version)
+-   py -3.7 -m pip install Flask
+-   py -3.7 -m pip install psutil
+- 	py -3.7 -m flask --app piserver run (launch)
+-   On Browser, type url: "http://localhost:5000/dashboard"
 
 License
 -------
